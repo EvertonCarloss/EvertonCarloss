@@ -34,5 +34,5 @@ LinkedIn: https://www.linkedin.com/in/everton-carlos-698524265/?skipRedirect=tru
 
 ## 📊 Estatísticas do GitHub
 
-![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonCarloss&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EvertonCarloss&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EvertonCarloss&theme=radical)
