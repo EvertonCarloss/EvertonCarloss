@@ -9,6 +9,7 @@ Atualmente estudando **HTML, CSS e JavaScript** e desenvolvendo projetos prátic
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ## 📂 Projetos
 
@@ -32,9 +33,9 @@ LinkedIn: https://www.linkedin.com/in/everton-carlos-698524265/?skipRedirect=tru
 
 ## 📊 Estatísticas do GitHub
 
-## 🚀 Tecnologias
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonCarloss&show_icons=true&theme=tokyonight)
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonCarloss&layout=compact&theme=tokyonight)
+
+
+
