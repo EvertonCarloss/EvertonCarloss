@@ -31,11 +31,8 @@ https://evertoncarloss.github.io/curso-html-css-origamid/
 
 LinkedIn: https://www.linkedin.com/in/everton-carlos-698524265/?skipRedirect=true
 
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EvertonCarloss&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EvertonCarloss&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EvertonCarloss)
-
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonCarloss&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EvertonCarloss&theme=radical)
