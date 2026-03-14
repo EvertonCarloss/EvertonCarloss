@@ -83,10 +83,4 @@ https://github.com/EvertonCarloss/curso-html-css-origamid
 
 ---
 
-## 🐍 Contribuições no GitHub
 
-<div align="center">
-
-<img src="https://github.com/EvertonCarloss/EvertonCarloss/blob/output/github-contribution-grid-snake.svg">
-
-</div>
