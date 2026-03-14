@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Giovani%20Braz&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Everton%Carlos&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 💻 Desenvolvedor Front-End em formação
 
